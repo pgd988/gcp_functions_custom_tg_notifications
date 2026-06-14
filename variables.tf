@@ -45,5 +45,5 @@ variable "telegram_chat_id" {
 variable "labels" {
   description = "A map of labels to apply to the resources"
   type        = map(string)
-  default     = {}
+  default     = "monitoring"
 }
