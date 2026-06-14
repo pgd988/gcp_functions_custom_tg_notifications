@@ -1,0 +1,8 @@
+{
+  "name": "gcp-pubsub-telegram-notification",
+  "version": "0.0.1",
+  "dependencies": {
+    "@google-cloud/pubsub": "^0.18.0",
+    "telegraf": "^3.38.0"
+  }
+}
